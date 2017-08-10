@@ -1,5 +1,5 @@
 {
-  "name": "react-plaid-link",
+  "name": "myabaris-plaid-link",
   "version": "0.1.9",
   "description": "A React component for Plaid Link",
   "files": [
@@ -9,7 +9,7 @@
   "main": "dist/PlaidLink.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pbernasconi/react-plaid-link.git"
+    "url": "https://github.com/myabaris/react-plaid-link.git"
   },
   "keywords": [
     "react",
@@ -17,10 +17,6 @@
     "link"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pbernasconi/react-plaid-link/issues"
-  },
-  "homepage": "https://github.com/pbernasconi/react-plaid-link",
   "dependencies": {
     "create-react-class": "^15.6.0",
     "react-script-loader": "0.0.1"
