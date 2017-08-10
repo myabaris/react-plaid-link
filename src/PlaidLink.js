@@ -4,7 +4,8 @@ const React = require('react');
 const PropTypes = require('prop-types');
 const ReactScriptLoaderMixin = require('react-script-loader').ReactScriptLoaderMixin;
 
-const PlaidLink = React.createClass({
+const createReactClass = require('create-react-class');
+const PlaidLink = createReactClass({
   mixins: [ReactScriptLoaderMixin],
   getDefaultProps: function() {
     return {
